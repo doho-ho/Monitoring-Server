@@ -1,0 +1,10 @@
+{
+    "Monitor":
+    {
+        "Server_ip":"127.0.0.1",
+        "Server_port":30125,
+        "Workerthread_count":2,
+        "Max_client_count":3000,
+        "Nagle_option":true
+    }
+}
