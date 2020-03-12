@@ -3,3 +3,4 @@
 
 # 2020.03.12
 1. Monitor server source code upload
+2. Monitor server class diagram, sequence diagram upload
